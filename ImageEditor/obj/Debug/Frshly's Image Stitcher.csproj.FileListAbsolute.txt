@@ -1,0 +1,10 @@
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\EPPlus.dll
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.ProcessFile.resources
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\Frshly's Image Stitcher.csproj.GenerateResource.Cache
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\FrshlysImageStitcher.exe.config
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\FrshlysImageStitcher.exe
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\FrshlysImageStitcher.pdb
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\FrshlysImageStitcher.Properties.Resources.resources
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\FrshlysImageStitcher.exe
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\FrshlysImageStitcher.pdb
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\Frshly's Image Stitcher.csprojResolveAssemblyReference.cache

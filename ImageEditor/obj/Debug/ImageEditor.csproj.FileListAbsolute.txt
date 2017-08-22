@@ -1,0 +1,10 @@
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\bin\Debug\EPPlus.dll
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+D:\Projects\AtchayamImageEditor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.ProcessFile.resources
